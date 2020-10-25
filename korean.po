@@ -25,7 +25,7 @@ msgstr "이게 내 마지막 모습이야. 너무 놀라워. 나 좋은 냄새�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",00164C5345E544D784CC289035CEF701"
 msgid "About that orb..."
-msgstr ""
+msgstr "그 오브는 말이야..."
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
@@ -39,7 +39,7 @@ msgstr "보바울 오두막"
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",002F7FED4D68AF160CEAFFB092D0F2E2"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "이쪽으로 그 단단한 자지를 줘... 내 안에서 느끼고 싶어"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -67,7 +67,7 @@ msgstr "그래, 마지막 한 방울마저 빨아먹을 때까지 떠날수 없�
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0169F2A34BA4C1104CDDEE99B3A3B50E"
 msgid "So I can, y-y-you know... feel your cock deep inside me."
-msgstr ""
+msgstr "저기... 그.. 내안에 너의 자지가 깊이 와있어. "
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
@@ -109,14 +109,14 @@ msgstr "글쌔, 드문 광경이네."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "작은 존재가 크라켄과 떡치는 용기가 있기 쉽지 않지. 내 육체가 너를 기분 좋게 했기를 바래. "
 
 #. Key:	026D19BC4A6B81E2694FF6B5E6EC3D9C
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",026D19BC4A6B81E2694FF6B5E6EC3D9C"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "으엑... 성기가 너무 커!"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -137,7 +137,7 @@ msgstr "물론, 지금까지 @MONSTER_RACE@가 의도적으로 인간을 해친�
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
 msgctxt ",02FA062A4ABF915F50D8B38C08105557"
 msgid "From what I remember, I was of Liasis descent. A race said to roam Lewd Desert long ago."
-msgstr ""
+msgstr "내가 기억하기론, 나는 리아시스 의 후손이야. 예전에 음란한 사막을 돌아다니던 종족이지.  "
 
 #. Key:	02FDE6D44BCEE7E9CD0113AACDF9C4E2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -200,14 +200,14 @@ msgstr "아아 좋아! 아아아....내 오래된 보지를 뚫어줘..."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0468AC1040BB9A10D1960B833F9A8305"
 msgid "For that I am thankful."
-msgstr ""
+msgstr "그것 덕에 정말 고마워."
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04744CA84CBAE9AB13EA1989A23A0DDC"
 msgid "I will leave your ranch soon! But don't worry, you can find me in Hedon."
-msgstr "저는 바로 목장을 떠납니다! 하지만 걱장하지 마세요. 헤돈에서 절 찾을 수 있습니다."
+msgstr "목장에서 곧 떠날께! 하지만 걱장하지 마. 헤돈에서 날 찾을수 있을거야."
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
@@ -228,7 +228,7 @@ msgstr "레미는 너가 야생@MONSTER_RACE@을 위한 새로운 건물을 원�
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(4).Lines
 msgctxt ",051883BC403A71EC7220ACAE27A63552"
 msgid "That old rusty set of gears above the town entrance probably controls a pulley system."
-msgstr ""
+msgstr "마을 입구에 있던 낡은 톱니들이 아마 이 도르레 장치를 조종 할거야. "
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -256,7 +256,7 @@ msgstr "아랫입 전에 봉알 먼저!"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",06271AC24974DE1182364AAD430A9574"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "만약... 음... 또 필사적이게 되면, 날 어디서 찾을지 알거야!"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
@@ -284,7 +284,7 @@ msgstr "이것봐,  @WORLD_NAME@ 어디에도 내가 미끄러지지 않은 곳�
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr "고사리 주인 도움! 고사리 체액 수확해!"
+msgstr "고사리 주인 돕는다! 고사리 체액 주인 위해 수확한다!"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
@@ -305,21 +305,21 @@ msgstr "이 세계는 인간과 몬스터 융합체인 수수께끼같은 종족
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(3).Lines
 msgctxt ",07035EA54B778F47897F278270889BBF"
 msgid "Aww... it's so adorable watching them figure out how to reach the fruit on the high branches."
-msgstr ""
+msgstr "아.... 그들이 높은 가지에 있는 열매에 닿으려 고민하는 모습이 너무 귀엽네"
 
 #. Key:	075A16DA4BA7F51C3A07099921F7F1B3
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",075A16DA4BA7F51C3A07099921F7F1B3"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "너 목욕이 필요해 보여. 이리와. 내 가슴사이에 너의 몸을 껴어, 깨끗하게 해야지."
 
 #. Key:	07B2E95342A617616201F19B87E3655A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",07B2E95342A617616201F19B87E3655A"
 msgid "You will feel so good as I milk your cock for all of its delicious semen..."
-msgstr ""
+msgstr "내가 너의 자지에서 맛있는 정액을 모두 짜내면 정말 기분 좋을거야. "
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -347,7 +347,7 @@ msgstr "제 정액을 가져가세요!"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",08A2508F4D57261E790AB8BEA258D6B2"
 msgid "Understand, thou has licked a vagina as old as time itself."
-msgstr ""
+msgstr "이해했다. 그대는 마치 시간과 같이 오래된 보지를 햙는구나."
 
 #. Key:	08DE001E4420BE30688798BF6B70729D
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
@@ -361,7 +361,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",0925499D4273278AA298A99B40C4550F"
 msgid "Believe me human, I have birthed many offspring."
-msgstr ""
+msgstr "날 믿어 인간, 난 많은 아이를 낳아봤다고."
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
@@ -382,7 +382,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0968DD0D4744523D6AFCEABE502C530F"
 msgid "I'm so horny I can't stand it anymore! Spread 'em human because here I come!"
-msgstr "난 흥분해서 더이상 참을수가 없어! 인간한테 내가 왔다고 전해!"
+msgstr "난 흥분해서 더이상 참을수가 없어! 어서 벌려 인간, 내가 왔다!"
 
 #. Key:	099488164DB48F48395E94B86F3EE565
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -480,7 +480,7 @@ msgstr "여신과 직접 관계를 가진 사람들은 너무나 많은 기쁨�
 #: /Game/Dialogue/Monarch/Default/MonarchShySexF_RL.Default__MonarchShySexF_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",0CBE9A9A40E9ADB708F7C28FA2F1B657"
 msgid "My body is ready"
-msgstr ""
+msgstr "내 몸은 준비 "
 
 #. Key:	0CD45BB44BFDB28371B663B5B53FD368
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(5).Lines
@@ -13825,1290 +13825,4 @@ msgid "This merchant cannot carry more of this race's milk."
 msgstr "이 상인은 이 종족의 젖을 더이상 가질 수 없다."
 
 #. Key:	MerchantNoRoomSemen
-#. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
-#: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
-msgctxt "MerchantSystem,MerchantNoRoomSemen"
-msgid "This merchant cannot carry more of this race's semen."
-msgstr "이 상인은 이 종족의 정액을 더이상 가질 수 없다."
-
-#. Key:	NoRoomMilk
-#. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
-#: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
-msgctxt "MerchantSystem,NoRoomMilk"
-msgid "You cannot carry more of this race's milk."
-msgstr "당신은 이 종족의 모유를 더이상 가질 수 없다."
-
-#. Key:	NoRoomSemen
-#. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
-#: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
-msgctxt "MerchantSystem,NoRoomSemen"
-msgid "You cannot carry more of this race's semen."
-msgstr "당신은 이 종족의 정액을 더이상 가질 수 없다."
-
-#. Key:	NewOffspringMessage
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:329
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:329
-msgctxt "MonsterSystem,NewOffspringMessage"
-msgid "New offspring were produced, check your barns."
-msgstr "새로운 자손을 낳았으니 헛간을 확인하십시오."
-
-#. Key:	AcceptButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
-msgctxt "Offspring,AcceptButtonTitle"
-msgid "Accept"
-msgstr "동의"
-
-#. Key:	AcceptButtonTitleTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
-msgctxt "Offspring,AcceptButtonTitleTooltip"
-msgid "Keep this offspring and add it to your ranch."
-msgstr "이 자손을 남겨두고 목장에 추가하십시오."
-
-#. Key:	ReceiverWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
-msgctxt "Offspring,ReceiverWindowTitle"
-msgid "Nephelym Offspring"
-msgstr "네팔렘 자손"
-
-#. Key:	ReleaseButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:27
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:27
-msgctxt "Offspring,ReleaseButtonTitle"
-msgid "Release"
-msgstr "해제"
-
-#. Key:	ReleaseButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:28
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:28
-msgctxt "Offspring,ReleaseButtonTooltip"
-msgid "Release this offspring into the wild."
-msgstr "이 자손을 야생으로 내보내다."
-
-#. Key:	RenameButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:34
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:34
-msgctxt "Offspring,RenameButton"
-msgid "Rename"
-msgstr "이름 바꾸기"
-
-#. Key:	RenameButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:35
-#: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:35
-msgctxt "Offspring,RenameButtonTooltip"
-msgid "Rename this offspring before adding it to your ranch."
-msgstr "이 자손들을 목장에 추가하기전에 이름을 바꾼다."
-
-#. Key:	Female
-#. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:353
-#: Source/Radiant/Public/World/SexyWorldSystem.cpp:353
-msgctxt "Radiant,Female"
-msgid "Female"
-msgstr ""
-
-#. Key:	Futa
-#. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:356
-#: Source/Radiant/Public/World/SexyWorldSystem.cpp:356
-msgctxt "Radiant,Futa"
-msgid "Futa"
-msgstr ""
-
-#. Key:	Male
-#. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:359
-#: Source/Radiant/Public/World/SexyWorldSystem.cpp:359
-msgctxt "Radiant,Male"
-msgid "Male"
-msgstr ""
-
-#. Key:	NullText
-#. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2402
-#: Source/Radiant/Public/Data/SexyData.h:2402
-msgctxt "Radiant,NullText"
-msgid "None"
-msgstr "없음"
-
-#. Key:	AcceptButton
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:60
-#: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:60
-msgctxt "RenameBox,AcceptButton"
-msgid "Accept"
-msgstr "동의"
-
-#. Key:	CancelButton
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:66
-#: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:66
-msgctxt "RenameBox,CancelButton"
-msgid "Cancel"
-msgstr "닫다"
-
-#. Key:	RandomNameTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:48
-#: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:48
-msgctxt "RenameBox,RandomNameTooltip"
-msgid "Generate a random name."
-msgstr "무작위 이름 생성."
-
-#. Key:	WindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:28
-#: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:28
-msgctxt "RenameBox,WindowTitle"
-msgid "Rename"
-msgstr "이름 바꾸기"
-
-#. Key:	ActionGiveFavorite
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:885
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:885
-msgctxt "ResourceList,ActionGiveFavorite"
-msgid "Give Fluid"
-msgstr "액체를 주다"
-
-#. Key:	ActionHarvestMilk
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:867
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:867
-msgctxt "ResourceList,ActionHarvestMilk"
-msgid "Harvest Milk"
-msgstr "모유를 수확"
-
-#. Key:	ActionHarvestMilkAssist
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:871
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:871
-msgctxt "ResourceList,ActionHarvestMilkAssist"
-msgid "Harvest Milk (Fern)"
-msgstr "모유를 수확 (고사리)"
-
-#. Key:	ActionHarvestMilkAssist2
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:876
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:876
-msgctxt "ResourceList,ActionHarvestMilkAssist2"
-msgid "Harvest Milk (Blossom)"
-msgstr "모유를 수확 (꽃)"
-
-#. Key:	ActionHarvestSemen
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:864
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:864
-msgctxt "ResourceList,ActionHarvestSemen"
-msgid "Harvest Semen"
-msgstr "정액을 수확"
-
-#. Key:	ActionHarvestSemen2
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:865
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:865
-msgctxt "ResourceList,ActionHarvestSemen2"
-msgid "Capture Semen"
-msgstr "정액 채취"
-
-#. Key:	ActionHarvestSemenAssist
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:869
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:869
-msgctxt "ResourceList,ActionHarvestSemenAssist"
-msgid "Harvest Semen (Fern)"
-msgstr "정액을 수확 (고사리)"
-
-#. Key:	ActionHarvestSemenAssist2
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:870
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:870
-msgctxt "ResourceList,ActionHarvestSemenAssist2"
-msgid "Capture Semen (Fern)"
-msgstr "정액 채취(고사리)"
-
-#. Key:	ActionHarvestSemenAssist3
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:874
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:874
-msgctxt "ResourceList,ActionHarvestSemenAssist3"
-msgid "Harvest Semen (Blossom)"
-msgstr "정액을 수확 (꽃)"
-
-#. Key:	ActionHarvestSemenAssist4
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:875
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:875
-msgctxt "ResourceList,ActionHarvestSemenAssist4"
-msgid "Capture Semen (Blossom)"
-msgstr "정액 채취(꽃)"
-
-#. Key:	ActionRelease
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:878
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:878
-msgctxt "ResourceList,ActionRelease"
-msgid "Release into the Wild"
-msgstr "야생으로 방출"
-
-#. Key:	ActionRename
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:862
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:862
-msgctxt "ResourceList,ActionRename"
-msgid "Rename"
-msgstr "이름 바꾸기"
-
-#. Key:	ActionSeduce
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:898
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:898
-msgctxt "ResourceList,ActionSeduce"
-msgid "Seduce"
-msgstr "유혹하다"
-
-#. Key:	ActionSleep
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:855
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:855
-msgctxt "ResourceList,ActionSleep"
-msgid "Sleep"
-msgstr "잔다"
-
-#. Key:	ActionSurpriseSex
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:921
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:921
-msgctxt "ResourceList,ActionSurpriseSex"
-msgid "Surprise Sex"
-msgstr "기습 섹스"
-
-#. Key:	SaveWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:19
-#: Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:19
-msgctxt "SaveMenu,SaveWindowTitle"
-msgid "Saved Games"
-msgstr "저장된 게임"
-
-#. Key:	SlotPath
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:29
-#: Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:29
-msgctxt "SaveMenu,SlotPath"
-msgid "Save Location"
-msgstr "위치 저장"
-
-#. Key:	ErrorSavingGame
-#. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:276
-#: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:276
-msgctxt "SaveSystem,ErrorSavingGame"
-msgid "Error while trying to save."
-msgstr "저장도중 오류 발생."
-
-#. Key:	SavedGame
-#. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:273
-#: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:273
-msgctxt "SaveSystem,SavedGame"
-msgid "Game successfully saved."
-msgstr "저장 완료."
-
-#. Key:	AllFutas
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
-msgctxt "SettingsMenu,AllFutas"
-msgid "Only Futas"
-msgstr "전부 후타"
-
-#. Key:	AllFutasHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
-msgctxt "SettingsMenu,AllFutasHelp"
-msgid "With the exception of the breeders, all other characters are futas."
-msgstr "사육자를 제외한, 모든 캐릭터를 후타로 바꾼다."
-
-#. Key:	AudioTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:84
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:84
-msgctxt "SettingsMenu,AudioTitle"
-msgid "Sound"
-msgstr "소리"
-
-#. Key:	AutoplayDialogue
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
-msgctxt "SettingsMenu,AutoplayDialogue"
-msgid "Autoplay Dialogue"
-msgstr "대사 자동플레이"
-
-#. Key:	AutoplayDialogueHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
-msgctxt "SettingsMenu,AutoplayDialogueHelp"
-msgid "Automatically cycle through lines of dialogue without having to press next."
-msgstr "다음을 누를 필요 없이 자동으로 대사가 순환."
-
-#. Key:	BodyComposition
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
-msgctxt "SettingsMenu,BodyComposition"
-msgid "Body Composition"
-msgstr "몸 구성"
-
-#. Key:	BodyCompositionHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
-msgctxt "SettingsMenu,BodyCompositionHelp"
-msgid "Makes all wild Nephelym bodies random, and allows you to change them via items."
-msgstr "모든 야생 네팔렘의 몸을 무작위로 만들고 아이템을 통해 신체를 변화시킬 수 있다."
-
-#. Key:	CameraControls
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
-msgctxt "SettingsMenu,CameraControls"
-msgid "Camera"
-msgstr "카메라"
-
-#. Key:	CameraPan
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:214
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:214
-msgctxt "SettingsMenu,CameraPan"
-msgid "Pan Rate"
-msgstr "회전 속도"
-
-#. Key:	CameraRotate
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:193
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:193
-msgctxt "SettingsMenu,CameraRotate"
-msgid "Rotate Rate"
-msgstr "회전속도"
-
-#. Key:	CameraZoom
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:235
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:235
-msgctxt "SettingsMenu,CameraZoom"
-msgid "Zoom Rate"
-msgstr "줌 속도"
-
-#. Key:	CamShakeHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
-msgctxt "SettingsMenu,CamShakeHelp"
-msgid "Camera will shake when large characters are nearby."
-msgstr "대형 캐릭터가 근처에 있으면 카메라가 흔들린다."
-
-#. Key:	CamShakeOption
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
-msgctxt "SettingsMenu,CamShakeOption"
-msgid "Camera Shake"
-msgstr "카메라 흔들림"
-
-#. Key:	CIHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
-msgctxt "SettingsMenu,CIHelp"
-msgid "Female body will swell in proportion to the amount of cum received."
-msgstr "여성의 몸은 사정량에 비례하여 불룩해질 것이다."
-
-#. Key:	ControlsTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:74
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:74
-msgctxt "SettingsMenu,ControlsTitle"
-msgid "Controls"
-msgstr "컨트롤"
-
-#. Key:	CumInflation
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
-msgctxt "SettingsMenu,CumInflation"
-msgid "Cum Inflation"
-msgstr "사정량 증가"
-
-#. Key:	DickSheath
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:341
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:341
-msgctxt "SettingsMenu,DickSheath"
-msgid "Dick Blur Sheath"
-msgstr "자지 그라데이션"
-
-#. Key:	EffectsVolume
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:410
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:410
-msgctxt "SettingsMenu,EffectsVolume"
-msgid "Effects"
-msgstr "효과"
-
-#. Key:	FeralFemales
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
-msgctxt "SettingsMenu,FeralFemales"
-msgid "Exotic Females"
-msgstr "이국적인 여성들"
-
-#. Key:	FeralFemalesHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
-msgctxt "SettingsMenu,FeralFemalesHelp"
-msgid "Female and futa Nephelym can have a trait that alters their appearance to be more monster than human. Males are always exotic."
-msgstr "여성과 후타 네팔렘은 그들의 외모를 몬스터로 바꾸는 특성을 가지고 있다. 남성은 항상 이국적이다."
-
-#. Key:	Futanari
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
-msgctxt "SettingsMenu,Futanari"
-msgid "Futanari"
-msgstr "후타나리"
-
-#. Key:	FutanariHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
-msgctxt "SettingsMenu,FutanariHelp"
-msgid "Female Nephelym and NPCs can have a fully functional dick."
-msgstr "여성 네팔렘과 NPC들은 완전한 기능을 가진 자지를 가질 수 있다."
-
-#. Key:	GameplayTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:54
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:54
-msgctxt "SettingsMenu,GameplayTitle"
-msgid "Gameplay"
-msgstr "게임 시작"
-
-#. Key:	GraphicsTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:64
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:64
-msgctxt "SettingsMenu,GraphicsTitle"
-msgid "Graphics"
-msgstr "그래픽"
-
-#. Key:	HominalFemales
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
-msgctxt "SettingsMenu,HominalFemales"
-msgid "Hominal Females"
-msgstr "여성성"
-
-#. Key:	HominalFemalesHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
-msgctxt "SettingsMenu,HominalFemalesHelp"
-msgid "Female and futa Nephelym can have a trait that alters their appearance to be more human than monster."
-msgstr "여성과 후타 네팔렘은 그들의 외모를 몬스터보다 더 인간적으로 바꿀 수 있는 특성을 가지고 있다."
-
-#. Key:	Hybrid
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
-msgctxt "SettingsMenu,Hybrid"
-msgid "Hybrids"
-msgstr "잡종들"
-
-#. Key:	HybridHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
-msgctxt "SettingsMenu,HybridHelp"
-msgid "Unique variants can be produced that are a mix of each parent's race."
-msgstr "부모의 종족이 혼합되어 독특한 변종이 만들어질 수 있다."
-
-#. Key:	KeyBinds
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
-msgctxt "SettingsMenu,KeyBinds"
-msgid "Action Bindings"
-msgstr "묶다"
-
-#. Key:	LangMode
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
-msgctxt "SettingsMenu,LangMode"
-msgid "Language"
-msgstr "언어"
-
-#. Key:	LangTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:483
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:483
-msgctxt "SettingsMenu,LangTitle"
-msgid "Localization"
-msgstr "부위"
-
-#. Key:	MalesFutas
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
-msgctxt "SettingsMenu,MalesFutas"
-msgid "All Males are Futas"
-msgstr "모든 수컷은 후타다"
-
-#. Key:	MalesFutasHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
-msgctxt "SettingsMenu,MalesFutasHelp"
-msgid "With the exception of the male breeder, all male Nephelym will be replaced with futas."
-msgstr "남성 사육자를 제외한, 모든 남성 네팔렘을 후타로 바꾼다."
-
-#. Key:	MasterVolume
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
-msgctxt "SettingsMenu,MasterVolume"
-msgid "Master"
-msgstr "주 음량"
-
-#. Key:	MusicVolume
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
-msgctxt "SettingsMenu,MusicVolume"
-msgid "Music"
-msgstr "음악"
-
-#. Key:	OptionsWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:36
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:36
-msgctxt "SettingsMenu,OptionsWindowTitle"
-msgid "Settings"
-msgstr "설정"
-
-#. Key:	PhysHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-msgctxt "SettingsMenu,PhysHelp"
-msgid "Simulate Breeder's jiggly bits, disable for performance gain. Restart required for full effect."
-msgstr "사육자의 각 부위를 흔들리는 것 처럼 보이게 한다. 효과를 반영하기 위해서는 재시작을 해야한다."
-
-#. Key:	PhysicsTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:355
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:355
-msgctxt "SettingsMenu,PhysicsTitle"
-msgid "Physics"
-msgstr "물리작용"
-
-#. Key:	PhysOption
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-msgctxt "SettingsMenu,PhysOption"
-msgid "Physics"
-msgstr "물리작용"
-
-#. Key:	Pregnancy
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
-msgctxt "SettingsMenu,Pregnancy"
-msgid "Pregnancy"
-msgstr "임신"
-
-#. Key:	PregnancyHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
-msgctxt "SettingsMenu,PregnancyHelp"
-msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "여성 네팔렘들은 자손을 소환하는데 4일이 걸리며, 배는 기간에 따라 변해갈 것이다.\n주의 : 게임을 진행하는 도중에 종료하면 임신기간을 잃게 될 것이다."
-
-#. Key:	Quality
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
-msgctxt "SettingsMenu,Quality"
-msgid "Overall Quality"
-msgstr "전체 품질"
-
-#. Key:	RenderingFeatures
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
-msgctxt "SettingsMenu,RenderingFeatures"
-msgid "Rendering Features"
-msgstr "렌더링 기능"
-
-#. Key:	Resolution
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
-msgctxt "SettingsMenu,Resolution"
-msgid "Resolution"
-msgstr "해상도"
-
-#. Key:	ScreenTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:274
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:274
-msgctxt "SettingsMenu,ScreenTitle"
-msgid "Screen"
-msgstr "화면"
-
-#. Key:	SurpriseHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
-msgctxt "SettingsMenu,SurpriseHelp"
-msgid "Allow consensual surprise sex."
-msgstr "기습 섹스를 허락한다."
-
-#. Key:	SurpriseSex
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
-msgctxt "SettingsMenu,SurpriseSex"
-msgid "Surprise Sex"
-msgstr "기습 섹스"
-
-#. Key:	ThemedFluids
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
-msgctxt "SettingsMenu,ThemedFluids"
-msgid "Racial Body Fluids"
-msgstr "종족의 체액"
-
-#. Key:	ThemedFluidsHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
-msgctxt "SettingsMenu,ThemedFluidsHelp"
-msgid "Each race has unique colors for their body fluids. If disabled, human colors will be used."
-msgstr "각각의 종족들은 체액이 독특한 색깔을 띄고있다. 만약 문제가 생긴다면, 인간의 색을 사용하면 돤다."
-
-#. Key:	UITitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:94
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:94
-msgctxt "SettingsMenu,UITitle"
-msgid "UI"
-msgstr "UI"
-
-#. Key:	VocalsVolume
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:431
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:431
-msgctxt "SettingsMenu,VocalsVolume"
-msgid "Vocals"
-msgstr "목소리"
-
-#. Key:	Volume
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:376
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:376
-msgctxt "SettingsMenu,Volume"
-msgid "Volume"
-msgstr "크기"
-
-#. Key:	WindowMode
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:286
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:286
-msgctxt "SettingsMenu,WindowMode"
-msgid "Window Mode"
-msgstr "윈도우 모드"
-
-#. Key:	BuyPositionMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:908
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:908
-msgctxt "SexyTradeMenu,BuyPositionMessage"
-msgid "You will learn this sex position."
-msgstr "당신은 이 체위를 배웠습니다."
-
-#. Key:	CollapseGStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
-#: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
-msgctxt "SSexyBreedingSetupMenu,CollapseGStats"
-msgid "Hide detailed stats for selected giver."
-msgstr "선택한 제공자의 상세 스탯을 숨김."
-
-#. Key:	CollapseRStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
-#: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
-msgctxt "SSexyBreedingSetupMenu,CollapseRStats"
-msgid "Hide detailed stats for selected receiver."
-msgstr "선택된 받는자의 상세 스탯을 숨김."
-
-#. Key:	ExpandGStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
-#: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
-msgctxt "SSexyBreedingSetupMenu,ExpandGStats"
-msgid "View detailed stats for selected giver."
-msgstr "선택된 주는자의 자세한 능력치 보기."
-
-#. Key:	ExpandRStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
-#: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
-msgctxt "SSexyBreedingSetupMenu,ExpandRStats"
-msgid "View detailed stats for selected receiver."
-msgstr "선택된 받는자의 자세한 능력치 보기."
-
-#. Key:	SpiritForm
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:239
-#: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:239
-msgctxt "SSexyCharacterDetails,SpiritForm"
-msgid "Spirit Form"
-msgstr "영혼의 형태"
-
-#. Key:	ExoticTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:46
-#: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:46
-msgctxt "SSexyCharacterGalleryControls,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists."
-msgstr "이 캐릭터가 있다면 이국적 특성을 주십시오."
-
-#. Key:	HominalTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:35
-#: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:35
-msgctxt "SSexyCharacterGalleryControls,HominalTooltip"
-msgid "Give this character its hominal trait if one exists."
-msgstr "이 캐릭터가 있다면 인간적인 특성을 주십시오."
-
-#. Key:	UsrPresetTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:57
-#: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:57
-msgctxt "SSexyCharacterGalleryControls,UsrPresetTooltip"
-msgid "Load a preset for this character."
-msgstr "이 캐릭터의 프리셋을 불러오십시오."
-
-#. Key:	None
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyDropList.cpp:82
-#: Source/Radiant/Public/UI/Components/SexyDropList.cpp:82
-msgctxt "SSexyDropList,None"
-msgid "None"
-msgstr "없음"
-
-#. Key:	BackButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:56
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:56
-msgctxt "SSexyGalleryMenu,BackButtonTitle"
-msgid "Back"
-msgstr "뒤로"
-
-#. Key:	BackButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:57
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:57
-msgctxt "SSexyGalleryMenu,BackButtonTooltip"
-msgid "Return to the creator."
-msgstr "크리에이터 모드로 돌아가기."
-
-#. Key:	GiverWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:72
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:72
-msgctxt "SSexyGalleryMenu,GiverWindowTitle"
-msgid "Select Giver"
-msgstr "주는자를 선택"
-
-#. Key:	ReceiverWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:107
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:107
-msgctxt "SSexyGalleryMenu,ReceiverWindowTitle"
-msgid "Select Receiver"
-msgstr "받는자를 선택"
-
-#. Key:	ViewButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:63
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:63
-msgctxt "SSexyGalleryMenu,ViewButtonTitle"
-msgid "View"
-msgstr "시점"
-
-#. Key:	ViewButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:64
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:64
-msgctxt "SSexyGalleryMenu,ViewButtonTooltip"
-msgid "View the sex scene for the currently selected mates and options."
-msgstr "선택된 짝과 옵션에 대한 섹스장면을 본다."
-
-#. Key:	ASOGMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:83
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:83
-msgctxt "SSexyGenericMenu,ASOGMessage"
-msgid "Special thanks to the following people:"
-msgstr "다음 분들께 특별히 감사드립니다:"
-
-#. Key:	ASOGWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:72
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:72
-msgctxt "SSexyGenericMenu,ASOGWindowTitle"
-msgid "Ancient Stone of Glory"
-msgstr "영광의 고대석"
-
-#. Key:	DailyTasksTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:117
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:117
-msgctxt "SSexyGenericMenu,DailyTasksTitle"
-msgid "Daily"
-msgstr ""
-
-#. Key:	FulfillButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:173
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:173
-msgctxt "SSexyGenericMenu,FulfillButton"
-msgid "Fulfill"
-msgstr "완료"
-
-#. Key:	FulfillButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:174
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:174
-msgctxt "SSexyGenericMenu,FulfillButtonTooltip"
-msgid "Accept the reward for this task."
-msgstr "일에 대한 보상을 받으십시오."
-
-#. Key:	SpecialTasksTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:127
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:127
-msgctxt "SSexyGenericMenu,SpecialTasksTitle"
-msgid "Special Requests"
-msgstr ""
-
-#. Key:	TaskMonsterWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:183
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:183
-msgctxt "SSexyGenericMenu,TaskMonsterWindowTitle"
-msgid "Select Nephelym to Fulfill Task"
-msgstr "작업을 수행할 네팔렘 선택"
-
-#. Key:	TaskWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:100
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:100
-msgctxt "SSexyGenericMenu,TaskWindowTitle"
-msgid "Breeding Tasks"
-msgstr "번식 작업"
-
-#. Key:	TravelWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:57
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:57
-msgctxt "SSexyGenericMenu,TravelWindowTitle"
-msgid "Select Destination"
-msgstr "대상을 선택"
-
-#. Key:	BindButton
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
-#: Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
-msgctxt "SSexyKeyBind,BindButton"
-msgid "Bind"
-msgstr "할당"
-
-#. Key:	BindKey
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:56
-#: Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:56
-msgctxt "SSexyKeyBind,BindKey"
-msgid "Press Key"
-msgstr "키 설정"
-
-#. Key:	CollapseStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:126
-#: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:126
-msgctxt "SSexyMonsterMenu,CollapseStats"
-msgid "Hide detailed stats for selected Nephelym."
-msgstr "선택된 네팔렘의 상세 스탯을 숨김."
-
-#. Key:	ExpandStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
-#: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
-msgctxt "SSexyMonsterMenu,ExpandStats"
-msgid "View detailed stats for selected Nephelym."
-msgstr "선택된 네팔렘의 자세한 능력치 보기."
-
-#. Key:	ManageWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
-#: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
-msgctxt "SSexyRanchMenu,ManageWindowTitle"
-msgid "Actions"
-msgstr "행동한다"
-
-#. Key:	ClearFilterTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
-msgctxt "SSexyResourceList,ClearFilterTooltip"
-msgid "Clear all current filters."
-msgstr "모든 필터를 제거."
-
-#. Key:	HarvestFilterTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:117
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:117
-msgctxt "SSexyResourceList,HarvestFilterTooltip"
-msgid "Filter by harvest ability."
-msgstr "수확 능력을 고르시오."
-
-#. Key:	RaceFilterTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:75
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:75
-msgctxt "SSexyResourceList,RaceFilterTooltip"
-msgid "Filter by race."
-msgstr "종족을 고르시오."
-
-#. Key:	SexFilterTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:89
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:89
-msgctxt "SSexyResourceList,SexFilterTooltip"
-msgid "Filter by sex."
-msgstr "성별을 고르시오."
-
-#. Key:	SizeFilterTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:103
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:103
-msgctxt "SSexyResourceList,SizeFilterTooltip"
-msgid "Filter by body size trait."
-msgstr "신체 크기 특성을 고르시오."
-
-#. Key:	StatsFilterTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:131
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:131
-msgctxt "SSexyResourceList,StatsFilterTooltip"
-msgid "Filter by stats."
-msgstr "능력치를 고르시오."
-
-#. Key:	Breeder
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
-msgctxt "SSexyRoamerMenu,Breeder"
-msgid "Breeder:"
-msgstr "사육자:"
-
-#. Key:	CatchButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
-msgctxt "SSexyRoamerMenu,CatchButton"
-msgid "Catch"
-msgstr "잡다"
-
-#. Key:	CatchButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
-msgctxt "SSexyRoamerMenu,CatchButtonTooltip"
-msgid "Add this wild Nephelym to your collection."
-msgstr "야생 네팔렘을 수집품에 추가하십시오."
-
-#. Key:	CollapseStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
-msgctxt "SSexyRoamerMenu,CollapseStats"
-msgid "Hide detailed stats for this wild Nephelym."
-msgstr "야생 네팔렘의 상세 스탯을 숨김."
-
-#. Key:	ExpandStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
-msgctxt "SSexyRoamerMenu,ExpandStats"
-msgid "View detailed stats for this wild Nephelym."
-msgstr "선택된 야생 네팔렘의 자세한 능력치 보기."
-
-#. Key:	ItemWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
-msgctxt "SSexyRoamerMenu,ItemWindowTitle"
-msgid "Give Fluid"
-msgstr "체액을 주다"
-
-#. Key:	LeaveButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
-msgctxt "SSexyRoamerMenu,LeaveButton"
-msgid "Leave"
-msgstr "떠나다"
-
-#. Key:	LeaveButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
-msgctxt "SSexyRoamerMenu,LeaveButtonTooltip"
-msgid "Leave this wild Nephelym alone."
-msgstr "이 야생 네팔렘을 내버려 둔다."
-
-#. Key:	Nephelym
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
-msgctxt "SSexyRoamerMenu,Nephelym"
-msgid "Nephelym:"
-msgstr "네팔렘:"
-
-#. Key:	RBJ
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
-msgctxt "SSexyRoamerMenu,RBJ"
-msgid "Spontaneous Blow Job!"
-msgstr "갑작스런 펠라치오!"
-
-#. Key:	ResistMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
-msgctxt "SSexyRoamerMenu,ResistMessage"
-msgid "Rapidly click to resist climax."
-msgstr "절정에 다다르지 않으려면 빠르게 클릭하십시오."
-
-#. Key:	RoamerWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
-msgctxt "SSexyRoamerMenu,RoamerWindowTitle"
-msgid "Actions"
-msgstr "행동한다"
-
-#. Key:	SurpriseSex
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
-msgctxt "SSexyRoamerMenu,SurpriseSex"
-msgid "Surprise Sex!"
-msgstr "기습 섹스!"
-
-#. Key:	TaskRBJ
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
-msgctxt "SSexyRoamerMenu,TaskRBJ"
-msgid "Let her work her wonder."
-msgstr "그녀가 하게 하십시오. 굉장할 것입니다."
-
-#. Key:	CheatFavor
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
-msgctxt "SSexySettingsMenu,CheatFavor"
-msgid "Added 1,000 favor."
-msgstr "1,000 은총이 추가됨."
-
-#. Key:	CheatFluids
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
-msgctxt "SSexySettingsMenu,CheatFluids"
-msgid "All fluids maxed."
-msgstr "모든 체액이 가득찼다."
-
-#. Key:	CheatLust
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
-msgctxt "SSexySettingsMenu,CheatLust"
-msgid "Everyone has infinite lust."
-msgstr "모든 사람은 무한한 욕정을 가지고 있다."
-
-#. Key:	CheatMoney
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
-msgctxt "SSexySettingsMenu,CheatMoney"
-msgid "Added 1,000,000 orgasium."
-msgstr "1,000,000 오르가즘이 추가됨."
-
-#. Key:	CheatPortals
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
-msgctxt "SSexySettingsMenu,CheatPortals"
-msgid "All pussy portals activated."
-msgstr "모든 보지포탈이 활성화 됩니다."
-
-#. Key:	CheatRanch
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
-msgctxt "SSexySettingsMenu,CheatRanch"
-msgid "All barns added to ranch."
-msgstr "모든 헛간들이 목장에 추가됐다."
-
-#. Key:	CheatRemove
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
-msgctxt "SSexySettingsMenu,CheatRemove"
-msgid "All cheats removed."
-msgstr "모든 치트가 제거됐다."
-
-#. Key:	CheatSpirit
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
-msgctxt "SSexySettingsMenu,CheatSpirit"
-msgid "You now have infinite spirit."
-msgstr "당신은 이제 무한한 영혼을 가지고 있습니다."
-
-#. Key:	CheatSurprise
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
-msgctxt "SSexySettingsMenu,CheatSurprise"
-msgid "You will always win surprise sex."
-msgstr "당신은 항상 기습 섹스를 이긴다."
-
-#. Key:	CheatTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
-msgctxt "SSexySettingsMenu,CheatTitle"
-msgid "Cheats"
-msgstr "치트"
-
-#. Key:	CheatTraitLvl
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
-msgctxt "SSexySettingsMenu,CheatTraitLvl"
-msgid "Trait level is maxed."
-msgstr "특성레벨 최대치."
-
-#. Key:	CreatorMode
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:846
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:846
-msgctxt "SSexySettingsMenu,CreatorMode"
-msgid "Creator mode activated."
-msgstr "크리에이터 모드 활성화."
-
-#. Key:	DefaultKeyBinds
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
-msgctxt "SSexySettingsMenu,DefaultKeyBinds"
-msgid "Reset Defaults"
-msgstr "기본값 재설정"
-
-#. Key:	DialogueTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
-msgctxt "SSexySettingsMenu,DialogueTitle"
-msgid "Dialogue"
-msgstr "대화"
-
-#. Key:	EnterButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
-msgctxt "SSexySettingsMenu,EnterButton"
-msgid "Enter"
-msgstr "입력"
-
-#. Key:	FemG
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:863
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:863
-msgctxt "SSexySettingsMenu,FemG"
-msgid "Futas use SS FemG."
-msgstr "후타는 SS여성G를 사용."
-
-#. Key:	FetishTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
-msgctxt "SSexySettingsMenu,FetishTitle"
-msgid "Fetish"
-msgstr "페티시"
-
-#. Key:	NFemG
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:867
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:867
-msgctxt "SSexySettingsMenu,NFemG"
-msgid "Futas use SS TG."
-msgstr "후타는 SS TG를 사용."
-
-#. Key:	ProudMother
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:830
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:830
-msgctxt "SSexySettingsMenu,ProudMother"
-msgid "Your mother would be so proud."
-msgstr ""
-
-#. Key:	SizePairs
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
-#: Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
-msgctxt "SSexySexPositionDetails,SizePairs"
-msgid "Pairs with Scene"
-msgstr "한 쌍과 장면"
-
-#. Key:	DaysRemaining
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:231
-#: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:231
-msgctxt "SSexyTaskGridItem,DaysRemaining"
-msgid "Days remaining: {0}"
-msgstr ""
-
-#. Key:	Reward
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:151
-#: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:151
-msgctxt "SSexyTaskGridItem,Reward"
-msgid "Reward:"
-msgstr ""
-
-#. Key:	FavorTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
-msgctxt "SSexyTradeMenu,FavorTitle"
-msgid "Confirm Exchange"
-msgstr "교환 확인"
-
-#. Key:	FinalFavor
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
-msgctxt "SSexyTradeMenu,FinalFavor"
-msgid "Favor gained:"
-msgstr "은총 증가:"
-
-#. Key:	PositionDescription
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
-msgctxt "SSexyTradeMenu,PositionDescription"
-msgid "Description"
-msgstr "설명하다"
-
-#. Key:	PurchaseTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
-msgctxt "SSexyTradeMenu,PurchaseTitle"
-msgid "Confirm Purchase"
-msgstr "구매 확인"
-
-#. Key:	SaleTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
-msgctxt "SSexyTradeMenu,SaleTitle"
-msgid "Confirm Sale"
-msgstr "판매 확인"
-
-#. Key:	SellMonsterMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
-msgctxt "SSexyTradeMenu,SellMonsterMessage"
-msgid "Ascend this one and gain favor?"
-msgstr "이 개체를 하늘로 올려보내어 은총을 얻겠습니까?"
-
-#. Key:	Activate
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:174
-#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:174
-msgctxt "TaskBoard,Activate"
-msgid "Check Breeding Tasks"
-msgstr "번식 작업 확인"
-
-#. Key:	BuyFunds
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
-msgctxt "TradeMenu,BuyFunds"
-msgid "Her funds:"
-msgstr "그녀의 자금:"
-
-#. Key:	HarvestButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
-msgctxt "TradeMenu,HarvestButton"
-msgid "Harvest"
-msgstr "수확하다"
-
-#. Key:	ItemsButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
-msgctxt "TradeMenu,ItemsButton"
-msgid "Items"
-msgstr "아이템들"
-
-#. Key:	SellFunds
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
-msgctxt "TradeMenu,SellFunds"
-msgid "Your funds:"
-msgstr "당신의 자금:"
-
-#. Key:	UpgradeDescription
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
-msgctxt "TradeMenu,UpgradeDescription"
-msgid "Description"
-msgstr "설명하다"
-
-#. Key:	HarvestButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
-#: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
-msgctxt "UtilityMenu,HarvestButton"
-msgid "Harvest"
-msgstr "수확하다"
-
-#. Key:	InventoryWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
-#: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
-msgctxt "UtilityMenu,InventoryWindowTitle"
-msgid "Ranch Inventory"
-msgstr "목장 인벤토리"
-
-#. Key:	ActivateAction
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:341
-#: Source/Radiant/Public/UI/SexyInterface.cpp:341
-msgctxt "WorldAction,ActivateAction"
-msgid "Activate"
-msgstr "작동시킨다"
-
-#. Key:	ActivateDazeShrine
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:347
-#: Source/Radiant/Public/UI/SexyInterface.cpp:347
-msgctxt "WorldAction,ActivateDazeShrine"
-msgid "Commune with the Reaper"
-msgstr "수확자와 교감"
-
-#. Key:	BreedingSetupAction
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:335
-#: Source/Radiant/Public/UI/SexyInterface.cpp:335
-msgctxt "WorldAction,BreedingSetupAction"
-msgid "Setup Breeding Session"
-msgstr "번식 기간 설정"
-
-#. Key:	InteractAction
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:350
-#: Source/Radiant/Public/UI/SexyInterface.cpp:350
-msgctxt "WorldAction,InteractAction"
-msgid "Interact"
-msgstr "대화"
-
-#. Key:	ManageRanch
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:332
-#: Source/Radiant/Public/UI/SexyInterface.cpp:332
-msgctxt "WorldAction,ManageRanch"
-msgid "Manage Ranch"
-msgstr "목장 관리"
-
-#. Key:	TalkAction
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:338
-#: Source/Radiant/Public/UI/SexyInterface.cpp:338
-msgctxt "WorldAction,TalkAction"
-msgid "Talk"
-msgstr "대화"
-
-#. Key:	TraverseAction
-#. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:344
-#: Source/Radiant/Public/UI/SexyInterface.cpp:344
-msgctxt "WorldAction,TraverseAction"
-msgid "Traverse Portal"
-msgstr "포탈 이용"
-
+#. SourceLocation:	Source/Radiant/Pu
